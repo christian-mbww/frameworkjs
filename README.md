@@ -1,7 +1,7 @@
 testing_framework
 Framework nightwatch + cucumber (both short and long term)
 
-To download: git clone https://github.com/SportBLX/testing_framework
+To download: git clone https://github.com/christian-mbww/frameworkjs
 
 to install modules: npm install
 
